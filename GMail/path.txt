@@ -1,1 +1,1 @@
-https://github.com/raml-apis/GoogleMail
+https://github.com/raml-apis/GoogleMail.git
